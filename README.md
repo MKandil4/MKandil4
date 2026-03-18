@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <strong>
