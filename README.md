@@ -9,6 +9,7 @@
 ---
 
 <h3>🚀 About Me</h3>
+
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
 - Currently improving my JavaScript skills and learning TypeScript & React
@@ -16,7 +17,7 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h3>🛠️ Tech Stack</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +28,7 @@
 
 ---
 
-<h2>🔥 Featured Projects</h2>
+<h3>🔥 Featured Projects</h3>
 
 - 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/responsive-admin-dashboard/)
 - 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-website-ui/)
@@ -36,7 +37,7 @@
 
 ---
 
- <h2>📫 Connect with Me</h2>
+ <h3>📫 Connect with Me</h3>
 
 - LinkedIn: https://www.linkedin.com/in/mohamed-kandil4
 - GitHub: https://github.com/MKandil4
