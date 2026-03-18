@@ -25,7 +25,7 @@
 ## 🔥 Featured Projects
 
 - 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/responsive-admin-dashboard/)
-- 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-landing-page/)
+- 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-website-ui/)
 - 🔗 [Multi-Section Website](https://mkandil4.github.io/multi-section-website/)
 - 🔗 [Leon Landing Page](https://mkandil4.github.io/leon-landing-page/)
 
