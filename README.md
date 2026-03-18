@@ -1,5 +1,4 @@
-<img width="1497" height="908" alt="image" src="https://github.com/user-attachments/assets/860fca11-56c8-4ffb-a601-0799c3dbe68c" /><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
   <strong>
@@ -9,6 +8,7 @@
 
 ---
 
+<h2>🚀 About Me</h2>
 <h2>🚀 About Me</h2>
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
