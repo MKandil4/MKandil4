@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Kandil
 
-💻 Front-End Developer focused on building clean and responsive user interfaces.
+🚀 Front-End Developer | Building modern, responsive, and user-friendly web interfaces.
 
 ---
 
@@ -8,6 +8,7 @@
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
 - Currently improving my JavaScript skills and learning TypeScript & React
+- 📍 Based in Riyadh, Saudi Arabia
 
 ---
 
