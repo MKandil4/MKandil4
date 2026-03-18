@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
