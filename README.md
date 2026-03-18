@@ -33,8 +33,8 @@
 <h3>🔥 Featured Projects</h3>
 
 - 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/responsive-admin-dashboard/)
+- 🔗 [Zeto-Multi-Section Website](https://mkandil4.github.io/multi-section-website/)
 - 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-website-ui/)
-- 🔗 [Multi-Section Website](https://mkandil4.github.io/multi-section-website/)
 - 🔗 [Leon Landing Page](https://mkandil4.github.io/leon-landing-page/)
 
 ---
