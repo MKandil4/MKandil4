@@ -10,6 +10,7 @@
 ---
 
 ## 🚀 About Me
+
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
 - Currently improving my JavaScript skills and learning TypeScript & React
@@ -38,5 +39,6 @@
 ---
 
 ## 📫 Connect with Me
+
 - LinkedIn: https://www.linkedin.com/in/mohamed-kandil4
 - GitHub: https://github.com/MKandil4
