@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1497" height="908" alt="image" src="https://github.com/user-attachments/assets/860fca11-56c8-4ffb-a601-0799c3dbe68c" /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
@@ -9,8 +9,7 @@
 
 ---
 
-🚀 About Me
-
+<h2>🚀 About Me</h2>
 - Senior Software Delivery Specialist transitioning into Front-End Development
 - Building real-world UI projects using HTML, CSS, and JavaScript
 - Currently improving my JavaScript skills and learning TypeScript & React
@@ -18,8 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
+<h2>🛠️ Tech Stack</h2>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +27,7 @@
 
 ---
 
-## 🔥 Featured Projects
+<h2>🔥 Featured Projects</h2>
 
 - 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/responsive-admin-dashboard/)
 - 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-website-ui/)
@@ -38,7 +36,7 @@
 
 ---
 
-## 📫 Connect with Me
+ <h2>📫 Connect with Me</h2>
 
 - LinkedIn: https://www.linkedin.com/in/mohamed-kandil4
 - GitHub: https://github.com/MKandil4
