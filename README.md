@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <h1 align="center">👋 Hi, I'm Mohamed Kandil</h1>
 </p>
-<h1 align="center">👋 Hi, I'm Mohamed Kandil</h1>
+
 <p align="center">
 🚀 Front-End Developer | Building modern, responsive, and user-friendly web interfaces.
 </p>
