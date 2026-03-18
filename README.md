@@ -24,10 +24,10 @@
 
 ## 🔥 Featured Projects
 
-- 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/Template-4-Dashboard/)
-- 🔗 [Kasper Landing Page](https://mkandil4.github.io/Template-Two-Kasper/)
-- 🔗 [Multi-Section Website](https://mkandil4.github.io/Template-Three-Elzero/)
-- 🔗 [Leon Landing Page](https://mkandil4.github.io/Template-One-Leon/)
+- 🔗 [Responsive Admin Dashboard](https://mkandil4.github.io/responsive-admin-dashboard/)
+- 🔗 [Kasper Landing Page](https://mkandil4.github.io/kasper-landing-page/)
+- 🔗 [Multi-Section Website](https://mkandil4.github.io/multi-section-website/)
+- 🔗 [Leon Landing Page](https://mkandil4.github.io/leon-landing-page/)
 
 ---
 
