@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=ffffff&animation=bounce" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <h3>🚀 About Me</h3>
 
-- Senior Software Delivery Specialist transitioning into Front-End Development
+- Senior Software Delivery Specialist transitioning into Front-End Development fadeIn
 - Building real-world UI projects using HTML, CSS, and JavaScript
 - Currently improving my JavaScript skills and learning TypeScript & React
 - 📍 Based in Riyadh, Saudi Arabia
