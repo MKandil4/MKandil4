@@ -3,7 +3,9 @@
 </p>
 # 👋 Hi, I'm Mohamed Kandil
 
+<p align="center">
 🚀 Front-End Developer | Building modern, responsive, and user-friendly web interfaces.
+</p>
 
 ---
 
